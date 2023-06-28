@@ -2,9 +2,9 @@
 
 In this lesson, we're gonna be building and deploying a 2-of-2 multi-signature account via a factory contract, which is basically a contract that executes instructions only after both of its owners attest their signature. We'll also test it by sending a transaction.   
 
--Code for the "Account abstraction" tutorial from the [zkSync v2 documentation](https://v2-docs.zksync.io/dev/).
--You can find a full step-by-step guide to build this project [in this article](https://v2-docs.zksync.io/dev/tutorials/custom-aa-tutorial.html#prerequisite).
--Portal Faucet [ZkSync Era Goerli Portal](https://goerli.portal.zksync.io/faucet)
+-Code for the "Account abstraction" tutorial from the [zkSync v2 documentation](https://v2-docs.zksync.io/dev/).   
+-You can find a full step-by-step guide to build this project [in this article](https://v2-docs.zksync.io/dev/tutorials/custom-aa-tutorial.html#prerequisite).   
+-Portal Faucet [ZkSync Era Goerli Portal](https://goerli.portal.zksync.io/faucet)   
 
 ## Installation and compilation
 
