@@ -1,4 +1,4 @@
-# Custom Account Abstraction (AA) Tutorial
+# Native Account Abstraction (AA) Implementation with zkSync Era
 
 In this lesson, we're gonna be building and deploying a 2-of-2 multi-signature account via a factory contract, which is basically a contract that executes instructions only after both of its owners attest their signature. We'll also test it by sending a transaction.   
 
